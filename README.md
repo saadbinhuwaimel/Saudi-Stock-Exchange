@@ -1,2 +1,0 @@
-# Saudi-Stock-Exchange
-Using data science in the stock market is not new, but that doesn't apply for Saudi Stock Exchange (Tadawul), It needs to be explored and studied deeply, so we can cluster companies based on its behavior during the good and bad days. Also we can identify the days with a very large number of trades and try to understand the reason behind it. Finally we can predict the stocks prices.
